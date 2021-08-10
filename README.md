@@ -5,7 +5,7 @@
 - 📫 Fale comigo por esse email: icaromoura3340@gmail.com
 - 😄 Pronomes: ele/dele
 
-<img src="https://i.postimg.cc/mDBp569w/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-pr.png" min-width="1100px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.postimg.cc/mDBp569w/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-pr.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div>
   <a href="https://github.com/IcaroFX">
